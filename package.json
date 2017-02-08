@@ -1,0 +1,22 @@
+{
+  "name": "nativescript-ngkeyboardtracker",
+  "description": "Native wrapper of the NgKeyboardTracker iOS library",
+  "version": "0.0.1",
+  "keywords": [
+    "nativescript",
+    "keyboard"
+  ],
+  "homepage": "https://github.com/lfabreges/nativescript-ngkeyboardtracker",
+  "bugs": "https://github.com/lfabreges/nativescript-ngkeyboardtracker/issues",
+  "license": "MIT",
+  "author": "Ludovic Fabrèges",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lfabreges/nativescript-ngkeyboardtracker.git"
+  },
+  "nativescript": {
+    "platforms": {
+      "ios": "1.4.0"
+    }
+  }
+}
