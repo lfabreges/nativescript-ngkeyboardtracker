@@ -1,6 +1,6 @@
 {
   "name": "nativescript-ngkeyboardtracker",
-  "description": "Nativescript wrapper of the NgKeyboardTracker iOS library",
+  "description": "NativeScript wrapper of the NgKeyboardTracker iOS library",
   "version": "0.0.2",
   "keywords": [
     "nativescript",
